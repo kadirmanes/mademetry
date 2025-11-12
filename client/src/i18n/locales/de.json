@@ -1,0 +1,204 @@
+{
+  "common": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "register": "Registrieren",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "back": "Zurück",
+    "loading": "Lädt...",
+    "language": "Sprache"
+  },
+  "landing": {
+    "title": "Individuelle Fertigung,",
+    "titleHighlight": "Vereinfacht",
+    "subtitle": "Laden Sie Ihre CAD-Dateien hoch, erhalten Sie sofortige Angebote und verfolgen Sie Ihre Bestellungen von der Produktion bis zur Lieferung. Professionelle Fertigungsdienstleistungen für CNC, 3D-Druck, Laserschneiden und mehr.",
+    "getQuote": "Sofortangebot Erhalten",
+    "uploadCAD": "CAD-Dateien Hochladen",
+    "viewServices": "Dienstleistungen Ansehen",
+    "services": "Dienstleistungen",
+    "howItWorks": "Wie es Funktioniert",
+    "servicesTitle": "Fertigungsdienstleistungen",
+    "servicesSubtitle": "Professionelle Fertigungskapazitäten für Prototypen und Produktionsläufe",
+    "howItWorksTitle": "Wie es Funktioniert",
+    "howItWorksSubtitle": "Lassen Sie Ihre Teile in vier einfachen Schritten fertigen",
+    "readyTitle": "Bereit Loszulegen?",
+    "readySubtitle": "Laden Sie jetzt Ihre CAD-Dateien hoch und erhalten Sie innerhalb von Stunden ein Angebot",
+    "startQuote": "Ihr Angebot Starten",
+    "stats": {
+      "services": "Fertigungsdienstleistungen",
+      "tracking": "Bestellverfolgung",
+      "response": "Angebotsantwort"
+    },
+    "steps": {
+      "upload": {
+        "title": "Dateien Hochladen",
+        "description": "Laden Sie Ihre CAD-Dateien (STEP, STL, DXF, DWG) hoch und geben Sie Anforderungen an"
+      },
+      "quote": {
+        "title": "Angebot Erhalten",
+        "description": "Erhalten Sie ein detailliertes Angebot mit Preisgestaltung und Zeitplan"
+      },
+      "confirm": {
+        "title": "Bestellung Bestätigen",
+        "description": "Überprüfen und genehmigen Sie das Angebot, um die Produktion zu starten"
+      },
+      "track": {
+        "title": "Verfolgen & Erhalten",
+        "description": "Überwachen Sie den Fortschritt und erhalten Sie Ihre fertigen Teile"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Ihr Design Hochladen",
+        "description": "STEP, STL, DXF, DWG Dateien werden unterstützt"
+      },
+      "configure": {
+        "title": "Optionen Konfigurieren",
+        "description": "Material, Menge, Oberfläche und Spezifikationen"
+      },
+      "track": {
+        "title": "Produktion Verfolgen",
+        "description": "Echtzeit-Statusaktualisierungen vom Angebot bis zur Lieferung"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "CNC-Bearbeitung",
+      "description": "Präzises CNC-Fräsen und Drehen für komplexe Metall- und Kunststoffteile mit engen Toleranzen.",
+      "features": [
+        "3-, 4- und 5-Achs-Bearbeitung",
+        "Toleranzen bis zu ±0,005mm",
+        "Aluminium, Stahl, Titan, Kunststoffe"
+      ]
+    },
+    "laserCutting": {
+      "title": "Laserschneiden",
+      "description": "Hochgeschwindigkeits-Laserschneiden für Blech und flache Teile mit hervorragender Kantenqualität.",
+      "features": [
+        "Bis zu 25mm Stahldicke",
+        "Komplexe Geometrien und Muster",
+        "Schnelle Bearbeitungszeiten"
+      ]
+    },
+    "printing3d": {
+      "title": "3D-Druck",
+      "description": "Schnelles Prototyping und Produktion mit FDM-, SLA- und SLS-Technologien.",
+      "features": [
+        "Mehrere Materialien verfügbar",
+        "Funktionale Prototypen",
+        "Kleinserienproduktion"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Blechumformung",
+      "description": "Biege-, Stanz- und Umformdienstleistungen für Blechkomponenten.",
+      "features": [
+        "Präzisionsbiegen",
+        "Kundenspezifisches Werkzeug verfügbar",
+        "Mengenrabatte"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Spritzguss",
+      "description": "Hochvolumige Kunststoffteilproduktion mit kundenspezifischen Formen und Werkzeugen.",
+      "features": [
+        "Vom Prototyp zur Produktion",
+        "Große Materialauswahl",
+        "Kosteneffektiv im großen Maßstab"
+      ]
+    },
+    "weldedFab": {
+      "title": "Schweißfertigung",
+      "description": "Kundenspezifisches Schweißen und Metallfertigung für Struktur- und Montagearbeiten.",
+      "features": [
+        "MIG-, TIG- und Punktschweißen",
+        "Stahl und Aluminium",
+        "Montagedienstleistungen"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Willkommen Zurück",
+    "loginSubtitle": "Melden Sie sich bei Ihrem Konto an",
+    "registerTitle": "Konto Erstellen",
+    "registerSubtitle": "Geben Sie Ihre Daten ein, um sich zu registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "createAccount": "Konto Erstellen",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "dontHaveAccount": "Noch kein Konto?",
+    "createOne": "Konto erstellen",
+    "loginSuccess": "Anmeldung Erfolgreich",
+    "loginSuccessDesc": "Willkommen zurück bei ManHUB!",
+    "loginFailed": "Anmeldung Fehlgeschlagen",
+    "loginFailedDesc": "Ungültige E-Mail oder Passwort.",
+    "registerSuccess": "Registrierung Erfolgreich",
+    "registerSuccessDesc": "Willkommen bei ManHUB! Weiterleitung zum Dashboard...",
+    "registerFailed": "Registrierung Fehlgeschlagen",
+    "registerFailedDesc": "Registrierung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "authRequired": "Authentifizierung Erforderlich",
+    "pleaseLogin": "Bitte melden Sie sich an, um eine Angebotsanfrage zu senden."
+  },
+  "quote": {
+    "requestTitle": "Angebot Anfordern",
+    "requestSubtitle": "Laden Sie Ihre CAD-Dateien hoch und geben Sie Spezifikationen an, um ein detailliertes Angebot zu erhalten",
+    "uploadFiles": "CAD-Dateien Hochladen",
+    "uploadDesc": "Klicken Sie, um CAD-Dateien hochzuladen",
+    "uploadSupport": "STEP, STL, DXF, DWG Dateien werden unterstützt (Max 100MB jeweils, bis zu 5 Dateien)",
+    "uploading": "Dateien werden hochgeladen...",
+    "partDetails": "Teiledetails",
+    "partName": "Teilename",
+    "service": "Fertigungsdienstleistung",
+    "material": "Material",
+    "quantity": "Menge",
+    "finish": "Oberflächentyp",
+    "notes": "Zusätzliche Notizen",
+    "submitQuote": "Angebotsanfrage Absenden",
+    "submitting": "Wird Gesendet...",
+    "services": {
+      "cnc": "CNC-Bearbeitung",
+      "laser": "Laserschneiden",
+      "3d": "3D-Druck",
+      "sheet": "Blech",
+      "injection": "Spritzguss",
+      "welding": "Schweißfertigung"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "myQuotes": "Meine Angebote",
+    "adminPanel": "Admin-Panel",
+    "newQuote": "Neue Angebotsanfrage",
+    "stats": {
+      "total": "Gesamtangebote",
+      "pending": "Ausstehende Angebote",
+      "inProgress": "In Bearbeitung",
+      "completed": "Abgeschlossen"
+    },
+    "recentQuotes": "Aktuelle Angebotsanfragen",
+    "noQuotes": "Noch keine Angebote",
+    "noQuotesDesc": "Beginnen Sie, indem Sie Ihr erstes Angebot anfordern",
+    "viewDetails": "Details Ansehen"
+  },
+  "footer": {
+    "services": "Dienstleistungen",
+    "certifications": "Zertifizierungen & Messung",
+    "postProcessing": "Nachbearbeitung",
+    "massProduction": "Massenproduktion",
+    "quote": "Angebot",
+    "standardQuote": "Standardangebot",
+    "targetPriceQuote": "Zielpreisangebot",
+    "account": "Konto",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "copyright": "© 2024 ManHUB. Professionelle Fertigungsdienstleistungen."
+  },
+  "certifications": {"title": "Zertifizierungen und Messberichte","description": "Umfassende Qualitätsdokumentation"},
+  "postProcessing": {"title": "Nachbearbeitungsdienstleistungen","description": "40+ Oberflächenoptionen"},
+  "massProduction": {"title": "Massenproduktionsdienstleistungen","description": "Skalierbare Fertigungslösungen"},
+  "targetPriceQuote": {"title": "Zielpreisangebot","description": "Senden Sie Ihre Anforderungen mit Zielbudget"}
+}

@@ -1,0 +1,231 @@
+{
+  "common": {
+    "login": "Log In",
+    "logout": "Log Out",
+    "register": "Register",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "back": "Back",
+    "loading": "Loading...",
+    "language": "Language"
+  },
+  "nav": {
+    "services": "Services",
+    "quote": "Quote",
+    "viewAllServices": "View all manufacturing services",
+    "certifications": "Certifications & Measurement",
+    "certificationsDesc": "Quality certifications and measurement reports",
+    "postProcessing": "Post-Processing",
+    "postProcessingDesc": "Surface treatment and finishing options",
+    "massProduction": "Mass Production",
+    "massProductionDesc": "High-volume production capabilities",
+    "standardQuote": "Standard Quote",
+    "standardQuoteDesc": "Create a standard quote request",
+    "targetPriceQuote": "Target Price Quote",
+    "targetPriceQuoteDesc": "Request quote with budget target"
+  },
+  "landing": {
+    "title": "Custom Manufacturing,",
+    "titleHighlight": "Simplified",
+    "subtitle": "Upload your CAD files, get instant quotes, and track your orders from production to delivery. Professional manufacturing services for CNC, 3D printing, laser cutting, and more.",
+    "getQuote": "Get Instant Quote",
+    "uploadCAD": "Upload CAD Files",
+    "viewServices": "View Services",
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "servicesTitle": "Manufacturing Services",
+    "servicesSubtitle": "Professional manufacturing capabilities for prototypes and production runs",
+    "howItWorksTitle": "How It Works",
+    "howItWorksSubtitle": "Get your parts manufactured in four simple steps",
+    "readyTitle": "Ready to Get Started?",
+    "readySubtitle": "Upload your CAD files now and receive a quote within hours",
+    "startQuote": "Start Your Quote",
+    "stats": {
+      "services": "Manufacturing Services",
+      "tracking": "Order Tracking",
+      "response": "Quote Response"
+    },
+    "steps": {
+      "upload": {
+        "title": "Upload Files",
+        "description": "Upload your CAD files (STEP, STL, DXF, DWG) and specify requirements"
+      },
+      "quote": {
+        "title": "Get Quote",
+        "description": "Receive a detailed quote with pricing and timeline"
+      },
+      "confirm": {
+        "title": "Confirm Order",
+        "description": "Review and approve the quote to start production"
+      },
+      "track": {
+        "title": "Track & Receive",
+        "description": "Monitor progress and receive your finished parts"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Upload Your Design",
+        "description": "STEP, STL, DXF, DWG files supported"
+      },
+      "configure": {
+        "title": "Configure Options",
+        "description": "Material, quantity, finish, and specifications"
+      },
+      "track": {
+        "title": "Track Production",
+        "description": "Real-time status updates from quote to delivery"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "CNC Machining",
+      "description": "Precision CNC milling and turning for complex metal and plastic parts with tight tolerances.",
+      "features": [
+        "3, 4, and 5-axis machining",
+        "Tolerances down to ±0.005mm",
+        "Aluminum, steel, titanium, plastics"
+      ]
+    },
+    "laserCutting": {
+      "title": "Laser Cutting",
+      "description": "High-speed laser cutting for sheet metal and flat parts with excellent edge quality.",
+      "features": [
+        "Up to 25mm steel thickness",
+        "Complex geometries and patterns",
+        "Fast turnaround times"
+      ]
+    },
+    "printing3d": {
+      "title": "3D Printing",
+      "description": "Rapid prototyping and production using FDM, SLA, and SLS technologies.",
+      "features": [
+        "Multiple materials available",
+        "Functional prototypes",
+        "Low-volume production"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Sheet Metal Forming",
+      "description": "Bending, stamping, and forming services for sheet metal components.",
+      "features": [
+        "Precision bending",
+        "Custom tooling available",
+        "Volume discounts"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Injection Molding",
+      "description": "High-volume plastic part production with custom molds and tooling.",
+      "features": [
+        "Prototype to production",
+        "Wide material selection",
+        "Cost-effective at scale"
+      ]
+    },
+    "weldedFab": {
+      "title": "Welded Fabrication",
+      "description": "Custom welding and metal fabrication for structural and assembly work.",
+      "features": [
+        "MIG, TIG, and spot welding",
+        "Steel and aluminum",
+        "Assembly services"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to your account",
+    "registerTitle": "Create Account",
+    "registerSubtitle": "Enter your details to register",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "createOne": "Create account",
+    "loginSuccess": "Login Successful",
+    "loginSuccessDesc": "Welcome back to ManHUB!",
+    "loginFailed": "Login Failed",
+    "loginFailedDesc": "Invalid email or password.",
+    "registerSuccess": "Registration Successful",
+    "registerSuccessDesc": "Welcome to ManHUB! Redirecting to dashboard...",
+    "registerFailed": "Registration Failed",
+    "registerFailedDesc": "Failed to register. Please try again.",
+    "authRequired": "Authentication Required",
+    "pleaseLogin": "Please log in to submit a quote request."
+  },
+  "quote": {
+    "requestTitle": "Request a Quote",
+    "requestSubtitle": "Upload your CAD files and provide specifications to get a detailed quote",
+    "uploadFiles": "Upload CAD Files",
+    "uploadDesc": "Click to upload CAD files",
+    "uploadSupport": "STEP, STL, DXF, DWG files supported (Max 100MB each, up to 5 files)",
+    "uploading": "Uploading files...",
+    "partDetails": "Part Details",
+    "partName": "Part Name",
+    "service": "Manufacturing Service",
+    "material": "Material",
+    "quantity": "Quantity",
+    "finish": "Finish Type",
+    "notes": "Additional Notes",
+    "submitQuote": "Submit Quote Request",
+    "submitting": "Submitting...",
+    "services": {
+      "cnc": "CNC Machining",
+      "laser": "Laser Cutting",
+      "3d": "3D Printing",
+      "sheet": "Sheet Metal",
+      "injection": "Injection Molding",
+      "welding": "Welded Fabrication"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "myQuotes": "My Quotes",
+    "adminPanel": "Admin Panel",
+    "newQuote": "New Quote Request",
+    "stats": {
+      "total": "Total Quotes",
+      "pending": "Pending Quotes",
+      "inProgress": "In Progress",
+      "completed": "Completed"
+    },
+    "recentQuotes": "Recent Quote Requests",
+    "noQuotes": "No quotes yet",
+    "noQuotesDesc": "Get started by requesting your first quote",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "services": "Services",
+    "certifications": "Certifications & Measurement",
+    "postProcessing": "Post-Processing",
+    "massProduction": "Mass Production",
+    "quote": "Quote",
+    "standardQuote": "Standard Quote",
+    "targetPriceQuote": "Target Price Quote",
+    "account": "Account",
+    "login": "Log In",
+    "register": "Sign Up",
+    "copyright": "© 2024 ManHUB. Professional manufacturing services."
+  },
+  "certifications": {
+    "title": "Certifications & Measurement Reports",
+    "description": "Comprehensive quality documentation for your manufacturing projects"
+  },
+  "postProcessing": {
+    "title": "Post-Processing Services",
+    "description": "40+ finishing options to enhance your manufactured parts"
+  },
+  "massProduction": {
+    "title": "Mass Production Services",
+    "description": "Scalable manufacturing solutions for high-volume orders"
+  },
+  "targetPriceQuote": {
+    "title": "Target Price Quote",
+    "description": "Submit your requirements with your target budget"
+  }
+}

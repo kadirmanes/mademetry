@@ -1,0 +1,204 @@
+{
+  "common": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "register": "Registrarse",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "back": "Atrás",
+    "loading": "Cargando...",
+    "language": "Idioma"
+  },
+  "landing": {
+    "title": "Fabricación Personalizada,",
+    "titleHighlight": "Simplificada",
+    "subtitle": "Cargue sus archivos CAD, obtenga cotizaciones instantáneas y realice un seguimiento de sus pedidos desde la producción hasta la entrega. Servicios de fabricación profesional para CNC, impresión 3D, corte por láser y más.",
+    "getQuote": "Obtener Cotización Instantánea",
+    "uploadCAD": "Cargar Archivos CAD",
+    "viewServices": "Ver Servicios",
+    "services": "Servicios",
+    "howItWorks": "Cómo Funciona",
+    "servicesTitle": "Servicios de Fabricación",
+    "servicesSubtitle": "Capacidades de fabricación profesional para prototipos y series de producción",
+    "howItWorksTitle": "Cómo Funciona",
+    "howItWorksSubtitle": "Fabrique sus piezas en cuatro sencillos pasos",
+    "readyTitle": "¿Listo para Empezar?",
+    "readySubtitle": "Cargue sus archivos CAD ahora y reciba una cotización en horas",
+    "startQuote": "Iniciar su Cotización",
+    "stats": {
+      "services": "Servicios de Fabricación",
+      "tracking": "Seguimiento de Pedidos",
+      "response": "Respuesta de Cotización"
+    },
+    "steps": {
+      "upload": {
+        "title": "Cargar Archivos",
+        "description": "Cargue sus archivos CAD (STEP, STL, DXF, DWG) y especifique los requisitos"
+      },
+      "quote": {
+        "title": "Obtener Cotización",
+        "description": "Reciba una cotización detallada con precios y cronograma"
+      },
+      "confirm": {
+        "title": "Confirmar Pedido",
+        "description": "Revise y apruebe la cotización para iniciar la producción"
+      },
+      "track": {
+        "title": "Seguir y Recibir",
+        "description": "Monitoree el progreso y reciba sus piezas terminadas"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Cargar su Diseño",
+        "description": "Se admiten archivos STEP, STL, DXF, DWG"
+      },
+      "configure": {
+        "title": "Configurar Opciones",
+        "description": "Material, cantidad, acabado y especificaciones"
+      },
+      "track": {
+        "title": "Seguir Producción",
+        "description": "Actualizaciones de estado en tiempo real desde la cotización hasta la entrega"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "Mecanizado CNC",
+      "description": "Fresado y torneado CNC de precisión para piezas metálicas y plásticas complejas con tolerancias ajustadas.",
+      "features": [
+        "Mecanizado de 3, 4 y 5 ejes",
+        "Tolerancias hasta ±0.005mm",
+        "Aluminio, acero, titanio, plásticos"
+      ]
+    },
+    "laserCutting": {
+      "title": "Corte por Láser",
+      "description": "Corte por láser de alta velocidad para chapa metálica y piezas planas con excelente calidad de borde.",
+      "features": [
+        "Hasta 25mm de espesor de acero",
+        "Geometrías y patrones complejos",
+        "Tiempos de entrega rápidos"
+      ]
+    },
+    "printing3d": {
+      "title": "Impresión 3D",
+      "description": "Prototipado rápido y producción utilizando tecnologías FDM, SLA y SLS.",
+      "features": [
+        "Múltiples materiales disponibles",
+        "Prototipos funcionales",
+        "Producción de bajo volumen"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Conformado de Chapa",
+      "description": "Servicios de doblado, estampado y conformado para componentes de chapa metálica.",
+      "features": [
+        "Doblado de precisión",
+        "Herramientas personalizadas disponibles",
+        "Descuentos por volumen"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Moldeo por Inyección",
+      "description": "Producción de piezas plásticas de alto volumen con moldes y herramientas personalizados.",
+      "features": [
+        "Del prototipo a la producción",
+        "Amplia selección de materiales",
+        "Rentable a escala"
+      ]
+    },
+    "weldedFab": {
+      "title": "Fabricación Soldada",
+      "description": "Soldadura personalizada y fabricación metálica para trabajos estructurales y de montaje.",
+      "features": [
+        "Soldadura MIG, TIG y por puntos",
+        "Acero y aluminio",
+        "Servicios de montaje"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Bienvenido de Nuevo",
+    "loginSubtitle": "Inicie sesión en su cuenta",
+    "registerTitle": "Crear Cuenta",
+    "registerSubtitle": "Ingrese sus datos para registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "createAccount": "Crear Cuenta",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "createOne": "Crear cuenta",
+    "loginSuccess": "Inicio de Sesión Exitoso",
+    "loginSuccessDesc": "¡Bienvenido de nuevo a ManHUB!",
+    "loginFailed": "Error de Inicio de Sesión",
+    "loginFailedDesc": "Correo electrónico o contraseña inválidos.",
+    "registerSuccess": "Registro Exitoso",
+    "registerSuccessDesc": "¡Bienvenido a ManHUB! Redirigiendo al panel...",
+    "registerFailed": "Error de Registro",
+    "registerFailedDesc": "Error al registrarse. Por favor, inténtelo de nuevo.",
+    "authRequired": "Autenticación Requerida",
+    "pleaseLogin": "Por favor inicie sesión para enviar una solicitud de cotización."
+  },
+  "quote": {
+    "requestTitle": "Solicitar una Cotización",
+    "requestSubtitle": "Cargue sus archivos CAD y proporcione especificaciones para obtener una cotización detallada",
+    "uploadFiles": "Cargar Archivos CAD",
+    "uploadDesc": "Haga clic para cargar archivos CAD",
+    "uploadSupport": "Se admiten archivos STEP, STL, DXF, DWG (Máx. 100MB cada uno, hasta 5 archivos)",
+    "uploading": "Cargando archivos...",
+    "partDetails": "Detalles de la Pieza",
+    "partName": "Nombre de la Pieza",
+    "service": "Servicio de Fabricación",
+    "material": "Material",
+    "quantity": "Cantidad",
+    "finish": "Tipo de Acabado",
+    "notes": "Notas Adicionales",
+    "submitQuote": "Enviar Solicitud de Cotización",
+    "submitting": "Enviando...",
+    "services": {
+      "cnc": "Mecanizado CNC",
+      "laser": "Corte por Láser",
+      "3d": "Impresión 3D",
+      "sheet": "Chapa Metálica",
+      "injection": "Moldeo por Inyección",
+      "welding": "Fabricación Soldada"
+    }
+  },
+  "dashboard": {
+    "title": "Panel",
+    "myQuotes": "Mis Cotizaciones",
+    "adminPanel": "Panel de Administración",
+    "newQuote": "Nueva Solicitud de Cotización",
+    "stats": {
+      "total": "Cotizaciones Totales",
+      "pending": "Cotizaciones Pendientes",
+      "inProgress": "En Progreso",
+      "completed": "Completadas"
+    },
+    "recentQuotes": "Solicitudes de Cotización Recientes",
+    "noQuotes": "Aún no hay cotizaciones",
+    "noQuotesDesc": "Comience solicitando su primera cotización",
+    "viewDetails": "Ver Detalles"
+  },
+  "footer": {
+    "services": "Servicios",
+    "certifications": "Certificaciones y Medición",
+    "postProcessing": "Post-Procesamiento",
+    "massProduction": "Producción en Masa",
+    "quote": "Cotización",
+    "standardQuote": "Cotización Estándar",
+    "targetPriceQuote": "Cotización Precio Objetivo",
+    "account": "Cuenta",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "copyright": "© 2024 ManHUB. Servicios de fabricación profesional."
+  },
+  "certifications": {"title": "Certificaciones e Informes de Medición","description": "Documentación de calidad integral"},
+  "postProcessing": {"title": "Servicios de Post-Procesamiento","description": "40+ opciones de acabado"},
+  "massProduction": {"title": "Servicios de Producción en Masa","description": "Soluciones de fabricación escalables"},
+  "targetPriceQuote": {"title": "Cotización Precio Objetivo","description": "Envíe sus requisitos con presupuesto objetivo"}
+}

@@ -1,0 +1,204 @@
+{
+  "common": {
+    "login": "Se Connecter",
+    "logout": "Se Déconnecter",
+    "register": "S'inscrire",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "back": "Retour",
+    "loading": "Chargement...",
+    "language": "Langue"
+  },
+  "landing": {
+    "title": "Fabrication Personnalisée,",
+    "titleHighlight": "Simplifiée",
+    "subtitle": "Téléchargez vos fichiers CAO, obtenez des devis instantanés et suivez vos commandes de la production à la livraison. Services de fabrication professionnels pour CNC, impression 3D, découpe laser et plus encore.",
+    "getQuote": "Obtenir un Devis Instantané",
+    "uploadCAD": "Télécharger les Fichiers CAO",
+    "viewServices": "Voir les Services",
+    "services": "Services",
+    "howItWorks": "Comment ça Marche",
+    "servicesTitle": "Services de Fabrication",
+    "servicesSubtitle": "Capacités de fabrication professionnelle pour prototypes et séries de production",
+    "howItWorksTitle": "Comment ça Marche",
+    "howItWorksSubtitle": "Faites fabriquer vos pièces en quatre étapes simples",
+    "readyTitle": "Prêt à Commencer?",
+    "readySubtitle": "Téléchargez vos fichiers CAO maintenant et recevez un devis en quelques heures",
+    "startQuote": "Démarrer votre Devis",
+    "stats": {
+      "services": "Services de Fabrication",
+      "tracking": "Suivi des Commandes",
+      "response": "Réponse au Devis"
+    },
+    "steps": {
+      "upload": {
+        "title": "Télécharger les Fichiers",
+        "description": "Téléchargez vos fichiers CAO (STEP, STL, DXF, DWG) et spécifiez les exigences"
+      },
+      "quote": {
+        "title": "Obtenir un Devis",
+        "description": "Recevez un devis détaillé avec tarification et calendrier"
+      },
+      "confirm": {
+        "title": "Confirmer la Commande",
+        "description": "Examinez et approuvez le devis pour lancer la production"
+      },
+      "track": {
+        "title": "Suivre et Recevoir",
+        "description": "Surveillez les progrès et recevez vos pièces finies"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Télécharger votre Conception",
+        "description": "Fichiers STEP, STL, DXF, DWG pris en charge"
+      },
+      "configure": {
+        "title": "Configurer les Options",
+        "description": "Matériau, quantité, finition et spécifications"
+      },
+      "track": {
+        "title": "Suivre la Production",
+        "description": "Mises à jour d'état en temps réel du devis à la livraison"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "Usinage CNC",
+      "description": "Fraisage et tournage CNC de précision pour pièces métalliques et plastiques complexes avec tolérances serrées.",
+      "features": [
+        "Usinage 3, 4 et 5 axes",
+        "Tolérances jusqu'à ±0,005mm",
+        "Aluminium, acier, titane, plastiques"
+      ]
+    },
+    "laserCutting": {
+      "title": "Découpe Laser",
+      "description": "Découpe laser haute vitesse pour tôles et pièces plates avec excellente qualité de bord.",
+      "features": [
+        "Jusqu'à 25mm d'épaisseur d'acier",
+        "Géométries et motifs complexes",
+        "Délais d'exécution rapides"
+      ]
+    },
+    "printing3d": {
+      "title": "Impression 3D",
+      "description": "Prototypage rapide et production utilisant les technologies FDM, SLA et SLS.",
+      "features": [
+        "Plusieurs matériaux disponibles",
+        "Prototypes fonctionnels",
+        "Production en petit volume"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Formage de Tôle",
+      "description": "Services de pliage, emboutissage et formage pour composants en tôle.",
+      "features": [
+        "Pliage de précision",
+        "Outillage personnalisé disponible",
+        "Remises sur volume"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Moulage par Injection",
+      "description": "Production de pièces plastiques en grand volume avec moules et outillages personnalisés.",
+      "features": [
+        "Du prototype à la production",
+        "Large sélection de matériaux",
+        "Rentable à grande échelle"
+      ]
+    },
+    "weldedFab": {
+      "title": "Fabrication Soudée",
+      "description": "Soudage personnalisé et fabrication métallique pour travaux structurels et d'assemblage.",
+      "features": [
+        "Soudage MIG, TIG et par points",
+        "Acier et aluminium",
+        "Services d'assemblage"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Bienvenue",
+    "loginSubtitle": "Connectez-vous à votre compte",
+    "registerTitle": "Créer un Compte",
+    "registerSubtitle": "Entrez vos informations pour vous inscrire",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "createAccount": "Créer un Compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte?",
+    "dontHaveAccount": "Vous n'avez pas de compte?",
+    "createOne": "Créer un compte",
+    "loginSuccess": "Connexion Réussie",
+    "loginSuccessDesc": "Bienvenue à ManHUB!",
+    "loginFailed": "Échec de la Connexion",
+    "loginFailedDesc": "E-mail ou mot de passe invalide.",
+    "registerSuccess": "Inscription Réussie",
+    "registerSuccessDesc": "Bienvenue à ManHUB! Redirection vers le tableau de bord...",
+    "registerFailed": "Échec de l'Inscription",
+    "registerFailedDesc": "Échec de l'inscription. Veuillez réessayer.",
+    "authRequired": "Authentification Requise",
+    "pleaseLogin": "Veuillez vous connecter pour soumettre une demande de devis."
+  },
+  "quote": {
+    "requestTitle": "Demander un Devis",
+    "requestSubtitle": "Téléchargez vos fichiers CAO et fournissez des spécifications pour obtenir un devis détaillé",
+    "uploadFiles": "Télécharger les Fichiers CAO",
+    "uploadDesc": "Cliquez pour télécharger les fichiers CAO",
+    "uploadSupport": "Fichiers STEP, STL, DXF, DWG pris en charge (Max 100MB chacun, jusqu'à 5 fichiers)",
+    "uploading": "Téléchargement des fichiers...",
+    "partDetails": "Détails de la Pièce",
+    "partName": "Nom de la Pièce",
+    "service": "Service de Fabrication",
+    "material": "Matériau",
+    "quantity": "Quantité",
+    "finish": "Type de Finition",
+    "notes": "Notes Supplémentaires",
+    "submitQuote": "Soumettre la Demande de Devis",
+    "submitting": "Envoi en cours...",
+    "services": {
+      "cnc": "Usinage CNC",
+      "laser": "Découpe Laser",
+      "3d": "Impression 3D",
+      "sheet": "Tôle",
+      "injection": "Moulage par Injection",
+      "welding": "Fabrication Soudée"
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "myQuotes": "Mes Devis",
+    "adminPanel": "Panneau d'Administration",
+    "newQuote": "Nouvelle Demande de Devis",
+    "stats": {
+      "total": "Total des Devis",
+      "pending": "Devis en Attente",
+      "inProgress": "En Cours",
+      "completed": "Terminé"
+    },
+    "recentQuotes": "Demandes de Devis Récentes",
+    "noQuotes": "Aucun devis pour le moment",
+    "noQuotesDesc": "Commencez en demandant votre premier devis",
+    "viewDetails": "Voir les Détails"
+  },
+  "footer": {
+    "services": "Services",
+    "certifications": "Certifications et Mesure",
+    "postProcessing": "Post-Traitement",
+    "massProduction": "Production de Masse",
+    "quote": "Devis",
+    "standardQuote": "Devis Standard",
+    "targetPriceQuote": "Devis Prix Cible",
+    "account": "Compte",
+    "login": "Se Connecter",
+    "register": "S'inscrire",
+    "copyright": "© 2024 ManHUB. Services de fabrication professionnels."
+  },
+  "certifications": {"title": "Certifications et Rapports de Mesure","description": "Documentation qualité complète"},
+  "postProcessing": {"title": "Services de Post-Traitement","description": "40+ options de finition"},
+  "massProduction": {"title": "Services de Production de Masse","description": "Solutions de fabrication évolutives"},
+  "targetPriceQuote": {"title": "Devis Prix Cible","description": "Soumettez vos exigences avec budget cible"}
+}

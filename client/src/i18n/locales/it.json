@@ -1,0 +1,216 @@
+{
+  "common": {
+    "login": "Accedi",
+    "logout": "Esci",
+    "register": "Registrati",
+    "submit": "Invia",
+    "cancel": "Annulla",
+    "back": "Indietro",
+    "loading": "Caricamento...",
+    "language": "Lingua"
+  },
+  "landing": {
+    "title": "Produzione Personalizzata,",
+    "titleHighlight": "Semplificata",
+    "subtitle": "Carica i tuoi file CAD, ottieni preventivi istantanei e traccia i tuoi ordini dalla produzione alla consegna. Servizi di produzione professionale per CNC, stampa 3D, taglio laser e altro ancora.",
+    "getQuote": "Ottieni Preventivo Istantaneo",
+    "uploadCAD": "Carica File CAD",
+    "viewServices": "Visualizza Servizi",
+    "services": "Servizi",
+    "howItWorks": "Come Funziona",
+    "servicesTitle": "Servizi di Produzione",
+    "servicesSubtitle": "Capacità di produzione professionale per prototipi e serie di produzione",
+    "howItWorksTitle": "Come Funziona",
+    "howItWorksSubtitle": "Fai produrre i tuoi pezzi in quattro semplici passaggi",
+    "readyTitle": "Pronto per Iniziare?",
+    "readySubtitle": "Carica i tuoi file CAD ora e ricevi un preventivo entro poche ore",
+    "startQuote": "Inizia il tuo Preventivo",
+    "stats": {
+      "services": "Servizi di Produzione",
+      "tracking": "Tracciamento Ordini",
+      "response": "Risposta Preventivo"
+    },
+    "steps": {
+      "upload": {
+        "title": "Carica File",
+        "description": "Carica i tuoi file CAD (STEP, STL, DXF, DWG) e specifica i requisiti"
+      },
+      "quote": {
+        "title": "Ottieni Preventivo",
+        "description": "Ricevi un preventivo dettagliato con prezzi e tempistiche"
+      },
+      "confirm": {
+        "title": "Conferma Ordine",
+        "description": "Rivedi e approva il preventivo per avviare la produzione"
+      },
+      "track": {
+        "title": "Traccia e Ricevi",
+        "description": "Monitora i progressi e ricevi i tuoi pezzi finiti"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Carica il tuo Design",
+        "description": "File STEP, STL, DXF, DWG supportati"
+      },
+      "configure": {
+        "title": "Configura Opzioni",
+        "description": "Materiale, quantità, finitura e specifiche"
+      },
+      "track": {
+        "title": "Traccia Produzione",
+        "description": "Aggiornamenti di stato in tempo reale dal preventivo alla consegna"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "Lavorazione CNC",
+      "description": "Fresatura e tornitura CNC di precisione per parti metalliche e plastiche complesse con tolleranze strette.",
+      "features": [
+        "Lavorazione a 3, 4 e 5 assi",
+        "Tolleranze fino a ±0,005mm",
+        "Alluminio, acciaio, titanio, plastiche"
+      ]
+    },
+    "laserCutting": {
+      "title": "Taglio Laser",
+      "description": "Taglio laser ad alta velocità per lamiere e parti piatte con eccellente qualità dei bordi.",
+      "features": [
+        "Fino a 25mm di spessore dell'acciaio",
+        "Geometrie e motivi complessi",
+        "Tempi di consegna rapidi"
+      ]
+    },
+    "printing3d": {
+      "title": "Stampa 3D",
+      "description": "Prototipazione rapida e produzione utilizzando tecnologie FDM, SLA e SLS.",
+      "features": [
+        "Multipli materiali disponibili",
+        "Prototipi funzionali",
+        "Produzione a basso volume"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Formatura Lamiera",
+      "description": "Servizi di piegatura, stampaggio e formatura per componenti in lamiera.",
+      "features": [
+        "Piegatura di precisione",
+        "Attrezzatura personalizzata disponibile",
+        "Sconti per volume"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Stampaggio a Iniezione",
+      "description": "Produzione di parti in plastica ad alto volume con stampi e attrezzature personalizzati.",
+      "features": [
+        "Dal prototipo alla produzione",
+        "Ampia selezione di materiali",
+        "Conveniente su scala"
+      ]
+    },
+    "weldedFab": {
+      "title": "Fabbricazione Saldata",
+      "description": "Saldatura personalizzata e fabbricazione metallica per lavori strutturali e di assemblaggio.",
+      "features": [
+        "Saldatura MIG, TIG e a punti",
+        "Acciaio e alluminio",
+        "Servizi di assemblaggio"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Bentornato",
+    "loginSubtitle": "Accedi al tuo account",
+    "registerTitle": "Crea Account",
+    "registerSubtitle": "Inserisci i tuoi dati per registrarti",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "createAccount": "Crea Account",
+    "alreadyHaveAccount": "Hai già un account?",
+    "dontHaveAccount": "Non hai un account?",
+    "createOne": "Crea account",
+    "loginSuccess": "Accesso Riuscito",
+    "loginSuccessDesc": "Bentornato su ManHUB!",
+    "loginFailed": "Accesso Fallito",
+    "loginFailedDesc": "Email o password non validi.",
+    "registerSuccess": "Registrazione Riuscita",
+    "registerSuccessDesc": "Benvenuto su ManHUB! Reindirizzamento al pannello...",
+    "registerFailed": "Registrazione Fallita",
+    "registerFailedDesc": "Registrazione fallita. Riprova.",
+    "authRequired": "Autenticazione Richiesta",
+    "pleaseLogin": "Effettua l'accesso per inviare una richiesta di preventivo."
+  },
+  "quote": {
+    "requestTitle": "Richiedi un Preventivo",
+    "requestSubtitle": "Carica i tuoi file CAD e fornisci le specifiche per ottenere un preventivo dettagliato",
+    "uploadFiles": "Carica File CAD",
+    "uploadDesc": "Clicca per caricare i file CAD",
+    "uploadSupport": "File STEP, STL, DXF, DWG supportati (Max 100MB ciascuno, fino a 5 file)",
+    "uploading": "Caricamento file...",
+    "partDetails": "Dettagli Parte",
+    "partName": "Nome Parte",
+    "service": "Servizio di Produzione",
+    "material": "Materiale",
+    "quantity": "Quantità",
+    "finish": "Tipo di Finitura",
+    "notes": "Note Aggiuntive",
+    "submitQuote": "Invia Richiesta Preventivo",
+    "submitting": "Invio in corso...",
+    "services": {
+      "cnc": "Lavorazione CNC",
+      "laser": "Taglio Laser",
+      "3d": "Stampa 3D",
+      "sheet": "Lamiera",
+      "injection": "Stampaggio a Iniezione",
+      "welding": "Fabbricazione Saldata"
+    }
+  },
+  "dashboard": {
+    "title": "Pannello",
+    "myQuotes": "I Miei Preventivi",
+    "adminPanel": "Pannello Admin",
+    "newQuote": "Nuova Richiesta Preventivo",
+    "stats": {
+      "total": "Preventivi Totali",
+      "pending": "Preventivi in Attesa",
+      "inProgress": "In Corso",
+      "completed": "Completato"
+    },
+    "recentQuotes": "Richieste di Preventivo Recenti",
+    "noQuotes": "Nessun preventivo ancora",
+    "noQuotesDesc": "Inizia richiedendo il tuo primo preventivo",
+    "viewDetails": "Visualizza Dettagli"
+  },
+  "footer": {
+    "services": "Servizi",
+    "certifications": "Certificazioni e Misurazioni",
+    "postProcessing": "Post-Lavorazione",
+    "massProduction": "Produzione in Serie",
+    "quote": "Preventivo",
+    "standardQuote": "Preventivo Standard",
+    "targetPriceQuote": "Preventivo a Prezzo Obiettivo",
+    "account": "Account",
+    "login": "Accedi",
+    "register": "Registrati",
+    "copyright": "© 2024 ManHUB. Servizi di produzione professionale."
+  },
+  "certifications": {
+    "title": "Certificazioni e Rapporti di Misurazione",
+    "description": "Documentazione completa sulla qualità"
+  },
+  "postProcessing": {
+    "title": "Servizi di Post-Lavorazione",
+    "description": "Oltre 40 opzioni di finitura"
+  },
+  "massProduction": {
+    "title": "Servizi di Produzione in Serie",
+    "description": "Soluzioni di produzione scalabili"
+  },
+  "targetPriceQuote": {
+    "title": "Preventivo a Prezzo Obiettivo",
+    "description": "Invia i tuoi requisiti con budget obiettivo"
+  }
+}

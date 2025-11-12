@@ -1,0 +1,141 @@
+6 Kasım’da Canlı Webinar!
+- Parça üretiminde hız ve verimliliği artırmanın yollarını keşfedin.
+Hemen Kayıt Olun
+Logo
+
+tr - TR
+Üretim hizmetleri
+Online Teklif Oluştur
+Üretim Hizmetleri Endüstriler Tedarik Çözümleri Bilgi Merkezi Xometry Hakkında Partner Ol
+Sertifikalar ve Ölçüm Raporları
+Kendi özel proje gerekliliklerinizi karşılamanıza yardım etmek için, her siparişte isteğe bağlı olarak talep edilebilen ayrıntılı ölçüm raporları ve endüstri standardı sertifikalar dahil olmak üzere çok çeşitli kalite belgeleri sunuyoruz. Bu belgeler, parçalarınızın verdiğiniz spesifikasyonlara göre üretildiğini, uluslararası kalite standartlarını karşıladığını ve yasal mevzuata uygun olduğunu doğruluyor.
+
+
+Ölçüm Raporları
+Xometry, parçalarınızın hassas boyut ve kalite standartlarını karşıladığından emin olmak için çeşitli ölçüm raporları sunar. ISO 2859-1 numune alma prosedürlerini temel alan raporlarımız, temel spesifikasyonların kapsamlı bir şekilde doğrulanmasını ve belgelenmesini sağlar.
+
+> Standart Ölçüm Raporu
+Bu muayene raporu, CMM, kumpas ve/veya el aletleri kullanılarak, kritik boyutların incelendiğini ve izin verilen boyutsal doğruluk ve toleranslara uygun olup olmadığının kaydedildiğini teyit eder. Kalite Kontrol ekibi, sıfır defolu ürün ile ISO 2859-1’i temel alan İstatistiksel Numune Alma Planımıza bağlı kalarak titiz muayeneler gerçekleştirir. Sağlam ve güvenilir bir kalite değerlendirme süreci yürütür.
+
+Not: Raporda en fazla 20 adet ölçüm numunesi belgelendirilmektedir. “Balon” teknik çizimler gereklidir; bu mümkün değilse, ana boyutları kendi takdirimize göre ölçülür.
+Standart fiyat: ₺1.250,00
+Teslim süresi: +1 iş günü
+> CMM Ölçüm Raporu
+CMM (Koordinat Ölçüm Cihazı) Boyutsal Ölçüm Raporu, tüm sipariş içinden küçük bir partinin kritik boyutlarının incelendiği ve izin verilen toleranslara uygun olup olmadığının kaydedildiği ayrıntılı bir kalite belgesidir. Son derece yüksek hassasiyette bir CMM kullanılarak oluşturulan bu rapor, boyutsal doğruluk, biçim (form), yönelim ve önemli detayların konumu hakkında kapsamlı bilgiler sunar. Gelişmiş ölçüm teknolojilerimiz, bileşenlerinizin değerlendirilmesinde hassasiyet ve doğruluk sağlar. Üretim partisi boyutları, ISO 2859 Genel Seviye II standartlarına uygun olarak belirlenir; bu sayede tutarlılık ve kalite normlarına uyum sağlanır.
+
+Not: Raporda en fazla 20 adet muayene numunesi belgelendirilmektedir
+Standart fiyat: ₺1.500,00
+Teslim süresi: + 3 iş günü
+> İlk Ürün Muayene Raporu (FAIR)
+İlk Ürün Muayeneleri (FAI’ler), seri üretimden önce parçaların teknik özelliklere (spesifikasyonlara) uygun olmasını sağlar. Yeni bir ürünün ilk üretim işlemi için gerekli olan FAI’de, ilk partiden alınan temsili bir numune kapsamlı bir şekilde incelenir ve ölçülür. Bu süreç, ürünün tasarım spesifikasyonlarını, teknik çizimleri ve sözleşmedeki yükümlülükleri karşıladığını doğrular. Aksi belirtilmedikçe, FAI belgelerinde şunlar bulunur: Tam ölçüm raporu, malzeme tipi onayı (metaller için) ve malzeme veri sayfası (plastikler için).
+
+Müşteri talebinde belirtirse, FAI belgelerinin kapsamı şunları da içerebilir: Yüzey ardıl işlem veya kaplama sertifikası, ısıl işlem ve sertlik onayı, üretim akış şeması, araç/kalıp sistemi listesi, kontrol planı ve müşteri tarafından belirtilen diğer hususlar.
+
+Not: Müşteriye FAI raporuyla birlikte 2 numune parça gönderilir. “Balon” teknik çizimler gereklidir. Varsayılan kapsamın dışında herhangi bir ek FAIR belgesine ihtiyacınız varsa lütfen belirtin.
+Teslim süresi: + 5 iş günü
+Standart fiyat: ₺1.750,00
+Malzeme Sertifikaları
+Malzeme sertifikalarımız, parçalarınızda kullanılan malzemelerin özellikleri ve standartlara uyumluluğu hakkında ayrıntılı belgeler sunar. EN 10204 standartlarına göre düzenlenen bu sertifikalar, projenizin gerekliliklerine bağlı olarak değişen düzeylerde muayene ve testler sunar.
+
+> Sipariş Tipi 2.1'e Uygunluk Sertifikası (EN 10204)
+Bu sertifika, teslim edilen malzemelerin sipariş spesifikasyonlarına uyduğuna dair üreticinin beyanıdır; herhangi bir test sonucu içermez. Üreticinin adı, ürün ayrıntıları ve uyumluluk onayı gibi temel bilgileri içerir. Genellikle genel inşaat uygulamaları gibi ayrıntılı test verilerinin gerekli olmadığı malzemeler için kullanılır.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: sipariş başına ₺350
+Sertifikayı Düzenleyen: Xometry Türkiye
+> Sipariş Tipi 2.2’ye ile Uygunluk Sertifikası (EN 10204)
+Bu sertifika, teslim edilen malzemelerin siparişte belirtilen spesifikasyonlara uyduğuna ve ilgili tüm dahili testlerden başarıyla geçtiğine dair bir üretici beyanıdır. Genellikle, EN 10204’e uygun olarak gerçekleştirilen dahili testlere dayanarak, ürünlerin (malzeme bileşimi veya mekanik özellikler gibi) belirtilen gereklilikleri karşıladığını doğrulamak gerektiğinde kullanılır.
+
+Teslim süresi: + 5 iş günü
+Standart fiyat: sipariş başına ₺350
+Sertifikayı Düzenleyen: Xometry Türkiye
+> Ham Malzeme Sertifikası (Metaller)
+Ham Malzeme Sertifikası (Metaller), ham malzemenin tedarikçisi tarafından verilir ve malzemelerin belirtilen standartları karşıladığını teyit eder. Çekme mukavemeti, akma mukavemeti, sertlik ve kimyasal analiz gibi mekanik özellikler ve kimyasal bileşim hakkında ayrıntılı bilgiler içerir. EN 10204’e göre Malzeme Muayene Sertifikası 3.1 veya Ülkeye Özgü Eşdeğeri (GB/T standartlarına göre Ürün Kalite Sertifikası gibi), bağımsız bir tetkikçi (assessor) tarafından doğrulanmış muayene sonuçlarıyla beraber üretici tarafından düzenlenir.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: konum başına ₺1.500,00
+Sertifikayı Düzenleyen: Malzeme üreticisi
+> Ham Malzeme Sertifikası (Plastikler)
+Plastikler için düzenlenen bir ham malzeme sertifikasında, ham malzeme tedarikçisinden plastik malzemelerin belirtilen sipariş gerekliliklerini karşıladığını doğrulayan ayrıntılı belgeler yer alır. Ayrıca kimyasal bileşim, yoğunluk, çekme mukavemeti, uzama ve ısıl özellikler gibi malzeme özellikleri hakkında temel bilgileri içerir. Sertifika, üretici tarafından düzenlenir ve test sonuçları bağımsız bir tetkikçi tarafından incelenir. Bu sertifika genellikle otomotiv, tüketici malları ve imalat gibi malzeme performansının ve standartlara uygunluğun kalite güvencesi için kritik önemde olduğu endüstrilerde kullanılır.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: pozisyon başına ₺1.500,00
+Sertifikayı Düzenleyen: Malzeme üreticisi
+> Isıl İşlem Sertifikaları
+Bu sertifika, üretim sırasında malzemelere uygulanan ısıl işlem proseslerini belgelendirir ve gerekli spesifikasyonları ve endüstri standartlarını karşılamalarını sağlar. Sertifika, kullanılan ısıl işlem yöntemleri (örneğin tavlama, su verme (quenching), temperleme), sıcaklık aralıkları ve soğutma hızları hakkında bilgileri ve çekme mukavemeti, sertlik ve mikro yapı gibi malzeme özelliklerinde oluşan değişiklikleri içerir. Sertifika, üretici tarafından düzenlenir ve bağımsız bir tetkikçi tarafından doğrulanır.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: pozisyon başına ₺1.500,00
+Sertifikayı Düzenleyen: Üretim ortağı
+> RoHS Sertifikası
+Tehlikeli Maddelerin Kısıtlanması (RoHS) sertifikası, siparişinizde Kadmiyum, Kurşun, Cıva, Altı Değerlikli (Hexavalent) Krom ve bazı alev geciktiriciler ve ftalatlar gibi tehlikeli maddelerin bulunmadığını ve RoHS mevzuatına uygun olduğunu teyit eder.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: ₺2.500,00
+Sertifikayı Düzenleyen: Xometry Türkiye, parçaların malzeme sertifikalarına dayanarak
+> REACH Sertifikası
+Kimyasalların Kaydı, Değerlendirilmesi, Yetkilendirilmesi ve Kısıtlanması (REACH) sertifikası, siparişinizde kullanılan malzemelerin ve ambalajların Avrupa REACH yönetmeliklerine uygun olduğunu belirtir. Malzemelerin hiçbirinde %0,1’den fazla tehlikeli madde bulunmadığını teyit ederek işletmeniz ve son kullanıcılar için daha güvenli, standartlara uyumlu ürünler sağlar.
+
+Teslim süresi: Ekstra gün gerekmez
+Standart fiyat: Ücretsiz
+Sertifikayı Düzenleyen: Xometry Türkiye
+Sık Sorulan Sorular
+“Balonlanmış” teknik çizim nedir ve neden gereklidir?
+
+Standart Ölçüm Raporu ile CMM Ölçüm Raporu arasındaki fark nedir?
+
+Tip 2.1 ve 2.2 Sertifikaları (EN 10204) arasındaki fark nedir?
+
+
+
+Ek sertifika veya ölçüm raporlarını nasıl talep edebilirim?
+
+Ölçüm için 20'den fazla numune talep edebilir miyim?
+
+
+Xometry Bülteni
+Üretim İpuçları ve Son Gelişmelerden Haberdar Olmak için Kayıt Olun:
+
+ornek@domain.com
+Sign up
+Kabiliyetler
+
+CNC İşleme
+Sac Metal Şekillendirme
+3D Baskı
+Enjeksiyon Kalıplama
+Silikon Kalıplama
+Basınçlı Döküm
+Seri Üretim Hizmetleri
+Hızlı Prototipleme
+Kaynaklar
+
+Malzeme Kütüphanesi
+Makaleler
+E-book & Kılavuzlar
+Üretim hikayeleri ve vaka çalışmaları
+Sık Sorulan Sorular
+Hakkımızda
+
+Xometry Türkiye Ekibi
+Kalite Güvencesi & Kontrol
+Haberler
+Gizlilik Politikası
+Satış, Üretim ve Hizmet Sözleşmesi
+Çerez politikasi
+Türkiye İletişim Bilgileri
+
+Email: info@xometry.com.tr
+Telefon: +90 (212) 221 0635
+Xometry Global
+
+Xometry Avrupa
+Xometry Birleşik Krallık
+Xometry Amerika
+Xometry Asya
+Xometry Avustralya
+Xometry Orta Doğu
+     
+Xometry
+© 2018-2025, Xometry
+Bizi takip edin

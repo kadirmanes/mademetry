@@ -1,0 +1,231 @@
+{
+  "common": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "register": "Kayıt Ol",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "back": "Geri",
+    "loading": "Yükleniyor...",
+    "language": "Dil"
+  },
+  "nav": {
+    "services": "Hizmetler",
+    "quote": "Teklif",
+    "viewAllServices": "Tüm hizmetleri görüntüle",
+    "certifications": "Sertifikalar & Ölçüm",
+    "certificationsDesc": "Kalite sertifikaları ve ölçüm raporları",
+    "postProcessing": "Ardıl İşlemler",
+    "postProcessingDesc": "Yüzey işleme ve kaplama seçenekleri",
+    "massProduction": "Seri Üretim",
+    "massProductionDesc": "Büyük hacimli üretim yetenekleri",
+    "standardQuote": "Standart Teklif",
+    "standardQuoteDesc": "Normal teklif talebi oluşturun",
+    "targetPriceQuote": "Hedef Fiyatlı Teklif",
+    "targetPriceQuoteDesc": "Bütçe hedefi ile teklif isteyin"
+  },
+  "landing": {
+    "title": "Özel İmalat,",
+    "titleHighlight": "Basitleştirildi",
+    "subtitle": "CAD dosyalarınızı yükleyin, anında fiyat teklifi alın ve siparişlerinizi üretimden teslimata kadar takip edin. CNC, 3D baskı, lazer kesim ve daha fazlası için profesyonel üretim hizmetleri.",
+    "getQuote": "Hemen Teklif Al",
+    "uploadCAD": "CAD Dosyaları Yükle",
+    "viewServices": "Hizmetleri Görüntüle",
+    "services": "Hizmetler",
+    "howItWorks": "Nasıl Çalışır",
+    "servicesTitle": "Üretim Hizmetleri",
+    "servicesSubtitle": "Prototip ve üretim için profesyonel üretim yetenekleri",
+    "howItWorksTitle": "Nasıl Çalışır",
+    "howItWorksSubtitle": "Parçalarınızı dört basit adımda üretin",
+    "readyTitle": "Başlamaya Hazır mısınız?",
+    "readySubtitle": "CAD dosyalarınızı şimdi yükleyin ve saatler içinde teklif alın",
+    "startQuote": "Teklifinizi Başlatın",
+    "stats": {
+      "services": "Üretim Hizmeti",
+      "tracking": "Sipariş Takibi",
+      "response": "Teklif Yanıtı"
+    },
+    "steps": {
+      "upload": {
+        "title": "Dosyaları Yükle",
+        "description": "CAD dosyalarınızı (STEP, STL, DXF, DWG) yükleyin ve gereksinimleri belirtin"
+      },
+      "quote": {
+        "title": "Teklif Alın",
+        "description": "Fiyatlandırma ve zaman çizelgesi içeren detaylı bir teklif alın"
+      },
+      "confirm": {
+        "title": "Siparişi Onaylayın",
+        "description": "Üretime başlamak için teklifi inceleyin ve onaylayın"
+      },
+      "track": {
+        "title": "Takip Edin ve Alın",
+        "description": "İlerlemeyi izleyin ve bitmiş parçalarınızı alın"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "Tasarımınızı Yükleyin",
+        "description": "STEP, STL, DXF, DWG dosyaları desteklenir"
+      },
+      "configure": {
+        "title": "Seçenekleri Yapılandırın",
+        "description": "Malzeme, miktar, kaplama ve özellikler"
+      },
+      "track": {
+        "title": "Üretimi Takip Edin",
+        "description": "Tekliften teslimata gerçek zamanlı durum güncellemeleri"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "CNC İşleme",
+      "description": "Sıkı toleranslara sahip karmaşık metal ve plastik parçalar için hassas CNC frezeleme ve tornalama.",
+      "features": [
+        "3, 4 ve 5 eksenli işleme",
+        "±0.005mm'ye kadar toleranslar",
+        "Alüminyum, çelik, titanyum, plastikler"
+      ]
+    },
+    "laserCutting": {
+      "title": "Lazer Kesim",
+      "description": "Mükemmel kenar kalitesi ile sac metal ve düz parçalar için yüksek hızlı lazer kesim.",
+      "features": [
+        "25mm'ye kadar çelik kalınlığı",
+        "Karmaşık geometriler ve desenler",
+        "Hızlı teslim süreleri"
+      ]
+    },
+    "printing3d": {
+      "title": "3D Baskı",
+      "description": "FDM, SLA ve SLS teknolojileri kullanarak hızlı prototipleme ve üretim.",
+      "features": [
+        "Birden fazla malzeme mevcuttur",
+        "İşlevsel prototipler",
+        "Düşük hacimli üretim"
+      ]
+    },
+    "sheetMetal": {
+      "title": "Sac Metal Şekillendirme",
+      "description": "Sac metal bileşenler için bükme, damgalama ve şekillendirme hizmetleri.",
+      "features": [
+        "Hassas bükme",
+        "Özel takım mevcuttur",
+        "Hacim indirimleri"
+      ]
+    },
+    "injectionMolding": {
+      "title": "Enjeksiyon Kalıplama",
+      "description": "Özel kalıplar ve takımlarla yüksek hacimli plastik parça üretimi.",
+      "features": [
+        "Prototipten üretime",
+        "Geniş malzeme seçimi",
+        "Ölçekte uygun maliyetli"
+      ]
+    },
+    "weldedFab": {
+      "title": "Kaynaklı Üretim",
+      "description": "Yapısal ve montaj işleri için özel kaynak ve metal imalat.",
+      "features": [
+        "MIG, TIG ve nokta kaynağı",
+        "Çelik ve alüminyum",
+        "Montaj hizmetleri"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "Tekrar Hoş Geldiniz",
+    "loginSubtitle": "Hesabınıza giriş yapın",
+    "registerTitle": "Hesap Oluştur",
+    "registerSubtitle": "Kayıt olmak için bilgilerinizi girin",
+    "email": "E-posta",
+    "password": "Şifre",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "createAccount": "Hesap Oluştur",
+    "alreadyHaveAccount": "Zaten bir hesabınız var mı?",
+    "dontHaveAccount": "Hesabınız yok mu?",
+    "createOne": "Hesap oluştur",
+    "loginSuccess": "Giriş Başarılı",
+    "loginSuccessDesc": "ManHUB'a tekrar hoş geldiniz!",
+    "loginFailed": "Giriş Başarısız",
+    "loginFailedDesc": "Geçersiz e-posta veya şifre.",
+    "registerSuccess": "Kayıt Başarılı",
+    "registerSuccessDesc": "ManHUB'a hoş geldiniz! Panele yönlendiriliyorsunuz...",
+    "registerFailed": "Kayıt Başarısız",
+    "registerFailedDesc": "Kayıt başarısız. Lütfen tekrar deneyin.",
+    "authRequired": "Kimlik Doğrulama Gerekli",
+    "pleaseLogin": "Teklif göndermek için lütfen giriş yapın."
+  },
+  "quote": {
+    "requestTitle": "Teklif İsteyin",
+    "requestSubtitle": "Detaylı bir teklif almak için CAD dosyalarınızı yükleyin ve özellikleri belirtin",
+    "uploadFiles": "CAD Dosyaları Yükle",
+    "uploadDesc": "CAD dosyalarını yüklemek için tıklayın",
+    "uploadSupport": "STEP, STL, DXF, DWG dosyaları desteklenir (Her biri en fazla 100MB, 5 dosyaya kadar)",
+    "uploading": "Dosyalar yükleniyor...",
+    "partDetails": "Parça Detayları",
+    "partName": "Parça Adı",
+    "service": "Üretim Hizmeti",
+    "material": "Malzeme",
+    "quantity": "Miktar",
+    "finish": "Kaplama Türü",
+    "notes": "Ek Notlar",
+    "submitQuote": "Teklif İsteği Gönder",
+    "submitting": "Gönderiliyor...",
+    "services": {
+      "cnc": "CNC İşleme",
+      "laser": "Lazer Kesim",
+      "3d": "3D Baskı",
+      "sheet": "Sac Metal",
+      "injection": "Enjeksiyon Kalıplama",
+      "welding": "Kaynaklı Üretim"
+    }
+  },
+  "dashboard": {
+    "title": "Panel",
+    "myQuotes": "Tekliflerim",
+    "adminPanel": "Yönetici Paneli",
+    "newQuote": "Yeni Teklif İsteği",
+    "stats": {
+      "total": "Toplam Teklif",
+      "pending": "Bekleyen Teklifler",
+      "inProgress": "Devam Ediyor",
+      "completed": "Tamamlandı"
+    },
+    "recentQuotes": "Son Teklif İstekleri",
+    "noQuotes": "Henüz teklif yok",
+    "noQuotesDesc": "İlk teklifinizi isteyerek başlayın",
+    "viewDetails": "Detayları Görüntüle"
+  },
+  "footer": {
+    "services": "Hizmetler",
+    "certifications": "Sertifikalar & Ölçüm",
+    "postProcessing": "Ardıl İşlemler",
+    "massProduction": "Seri Üretim",
+    "quote": "Teklif",
+    "standardQuote": "Standart Teklif",
+    "targetPriceQuote": "Hedef Fiyatlı Teklif",
+    "account": "Hesap",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "copyright": "© 2024 ManHUB. Profesyonel üretim hizmetleri."
+  },
+  "certifications": {
+    "title": "Sertifikalar ve Ölçüm Raporları",
+    "description": "Üretim projeleriniz için kapsamlı kalite belgeleri"
+  },
+  "postProcessing": {
+    "title": "Ardıl İşlem Hizmetleri",
+    "description": "Üretilmiş parçalarınızı geliştirmek için 40+ bitirme seçeneği"
+  },
+  "massProduction": {
+    "title": "Seri Üretim Hizmetleri",
+    "description": "Yüksek hacimli siparişler için ölçeklenebilir üretim çözümleri"
+  },
+  "targetPriceQuote": {
+    "title": "Hedef Fiyatlı Teklif",
+    "description": "Gereksinimlerinizi hedef bütçenizle gönderin"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "common": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "register": "登録",
+    "submit": "送信",
+    "cancel": "キャンセル",
+    "back": "戻る",
+    "loading": "読み込み中...",
+    "language": "言語"
+  },
+  "landing": {
+    "title": "カスタム製造、",
+    "titleHighlight": "簡素化",
+    "subtitle": "CADファイルをアップロードし、即座に見積もりを取得し、生産から配送まで注文を追跡します。CNC、3Dプリント、レーザーカットなどのプロフェッショナルな製造サービス。",
+    "getQuote": "即座に見積もりを取得",
+    "uploadCAD": "CADファイルをアップロード",
+    "viewServices": "サービスを表示",
+    "services": "サービス",
+    "howItWorks": "仕組み",
+    "servicesTitle": "製造サービス",
+    "servicesSubtitle": "試作品と量産のためのプロフェッショナルな製造能力",
+    "howItWorksTitle": "仕組み",
+    "howItWorksSubtitle": "4つの簡単なステップで部品を製造",
+    "readyTitle": "始める準備はできましたか？",
+    "readySubtitle": "今すぐCADファイルをアップロードして、数時間以内に見積もりを受け取りましょう",
+    "startQuote": "見積もりを開始",
+    "stats": {
+      "services": "製造サービス",
+      "tracking": "注文追跡",
+      "response": "見積もり回答"
+    },
+    "steps": {
+      "upload": {
+        "title": "ファイルをアップロード",
+        "description": "CADファイル（STEP、STL、DXF、DWG）をアップロードし、要件を指定"
+      },
+      "quote": {
+        "title": "見積もりを取得",
+        "description": "価格とスケジュールの詳細な見積もりを受け取る"
+      },
+      "confirm": {
+        "title": "注文を確認",
+        "description": "見積もりを確認して承認し、生産を開始"
+      },
+      "track": {
+        "title": "追跡と受取",
+        "description": "進行状況を監視し、完成した部品を受け取る"
+      }
+    },
+    "process": {
+      "upload": {
+        "title": "デザインをアップロード",
+        "description": "STEP、STL、DXF、DWGファイルをサポート"
+      },
+      "configure": {
+        "title": "オプションを設定",
+        "description": "材料、数量、仕上げ、仕様"
+      },
+      "track": {
+        "title": "生産を追跡",
+        "description": "見積もりから配送までリアルタイムでステータス更新"
+      }
+    }
+  },
+  "services": {
+    "cncMachining": {
+      "title": "CNC加工",
+      "description": "厳しい公差を持つ複雑な金属およびプラスチック部品の精密CNCフライス加工および旋削加工。",
+      "features": [
+        "3軸、4軸、5軸加工",
+        "±0.005mmまでの公差",
+        "アルミニウム、鋼、チタン、プラスチック"
+      ]
+    },
+    "laserCutting": {
+      "title": "レーザーカット",
+      "description": "優れたエッジ品質を持つ板金およびフラット部品の高速レーザーカット。",
+      "features": [
+        "25mmまでの鋼板厚",
+        "複雑な形状とパターン",
+        "迅速な納期"
+      ]
+    },
+    "printing3d": {
+      "title": "3Dプリント",
+      "description": "FDM、SLA、SLS技術を使用した迅速な試作と生産。",
+      "features": [
+        "複数の材料が利用可能",
+        "機能的なプロトタイプ",
+        "少量生産"
+      ]
+    },
+    "sheetMetal": {
+      "title": "板金成形",
+      "description": "板金コンポーネントの曲げ、プレス、成形サービス。",
+      "features": [
+        "精密曲げ",
+        "カスタム工具が利用可能",
+        "ボリューム割引"
+      ]
+    },
+    "injectionMolding": {
+      "title": "射出成形",
+      "description": "カスタム金型と工具による大量プラスチック部品生産。",
+      "features": [
+        "試作から生産まで",
+        "幅広い材料選択",
+        "スケールでのコスト効率"
+      ]
+    },
+    "weldedFab": {
+      "title": "溶接製造",
+      "description": "構造および組立作業のためのカスタム溶接および金属製造。",
+      "features": [
+        "MIG、TIG、スポット溶接",
+        "鋼とアルミニウム",
+        "組立サービス"
+      ]
+    }
+  },
+  "auth": {
+    "loginTitle": "おかえりなさい",
+    "loginSubtitle": "アカウントにサインイン",
+    "registerTitle": "アカウント作成",
+    "registerSubtitle": "登録するには詳細を入力してください",
+    "email": "メール",
+    "password": "パスワード",
+    "firstName": "名",
+    "lastName": "姓",
+    "createAccount": "アカウント作成",
+    "alreadyHaveAccount": "すでにアカウントをお持ちですか？",
+    "dontHaveAccount": "アカウントをお持ちでない方は？",
+    "createOne": "アカウント作成",
+    "loginSuccess": "ログイン成功",
+    "loginSuccessDesc": "ManHUBへようこそ！",
+    "loginFailed": "ログイン失敗",
+    "loginFailedDesc": "メールアドレスまたはパスワードが無効です。",
+    "registerSuccess": "登録成功",
+    "registerSuccessDesc": "ManHUBへようこそ！ダッシュボードにリダイレクトしています...",
+    "registerFailed": "登録失敗",
+    "registerFailedDesc": "登録に失敗しました。もう一度お試しください。",
+    "authRequired": "認証が必要です",
+    "pleaseLogin": "見積もりリクエストを送信するにはログインしてください。"
+  },
+  "quote": {
+    "requestTitle": "見積もりをリクエスト",
+    "requestSubtitle": "CADファイルをアップロードし、詳細な見積もりを取得するための仕様を提供してください",
+    "uploadFiles": "CADファイルをアップロード",
+    "uploadDesc": "CADファイルをアップロードするにはクリック",
+    "uploadSupport": "STEP、STL、DXF、DWGファイルをサポート（各最大100MB、最大5ファイル）",
+    "uploading": "ファイルをアップロード中...",
+    "partDetails": "部品の詳細",
+    "partName": "部品名",
+    "service": "製造サービス",
+    "material": "材料",
+    "quantity": "数量",
+    "finish": "仕上げタイプ",
+    "notes": "追加メモ",
+    "submitQuote": "見積もりリクエストを送信",
+    "submitting": "送信中...",
+    "services": {
+      "cnc": "CNC加工",
+      "laser": "レーザーカット",
+      "3d": "3Dプリント",
+      "sheet": "板金",
+      "injection": "射出成形",
+      "welding": "溶接製造"
+    }
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "myQuotes": "私の見積もり",
+    "adminPanel": "管理パネル",
+    "newQuote": "新しい見積もりリクエスト",
+    "stats": {
+      "total": "合計見積もり",
+      "pending": "保留中の見積もり",
+      "inProgress": "進行中",
+      "completed": "完了"
+    },
+    "recentQuotes": "最近の見積もりリクエスト",
+    "noQuotes": "まだ見積もりがありません",
+    "noQuotesDesc": "最初の見積もりをリクエストして始めましょう",
+    "viewDetails": "詳細を表示"
+  },
+  "footer": {
+    "services": "サービス",
+    "certifications": "認証と測定",
+    "postProcessing": "後処理",
+    "massProduction": "量産",
+    "quote": "見積もり",
+    "standardQuote": "標準見積もり",
+    "targetPriceQuote": "目標価格見積もり",
+    "account": "アカウント",
+    "login": "ログイン",
+    "register": "登録",
+    "copyright": "© 2024 ManHUB. プロフェッショナルな製造サービス。"
+  },
+  "certifications": {
+    "title": "認証と測定レポート",
+    "description": "包括的な品質ドキュメント"
+  },
+  "postProcessing": {
+    "title": "後処理サービス",
+    "description": "40以上の仕上げオプション"
+  },
+  "massProduction": {
+    "title": "量産サービス",
+    "description": "スケーラブルな製造ソリューション"
+  },
+  "targetPriceQuote": {
+    "title": "目標価格見積もり",
+    "description": "目標予算と要件を送信"
+  }
+}
